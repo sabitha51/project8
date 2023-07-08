@@ -1,0 +1,18 @@
+body{
+    
+    background-repeat: no-repeat;
+    background-color: green;
+    margin:30px;
+}
+.forms{
+    background-color: #17A6DB;
+    margin:70px;
+    
+}
+
+input[type="submit"]{
+    background-color: green;
+    cursor: pointer;
+    padding-right: 10px;
+    
+}
